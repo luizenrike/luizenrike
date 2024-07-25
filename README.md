@@ -29,4 +29,4 @@ I like to test the power of technology and see how far it can help me. With this
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizenrike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-###👋👋 Bye, thanks for visiting, if you have any questions, feel free to contact me.
+### 👋👋 Bye, thanks for visiting, if you have any questions, feel free to contact me.
