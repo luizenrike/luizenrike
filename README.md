@@ -1,7 +1,7 @@
 ## 👋 Hi, welcome to my GitHub profile, this is my jungle of code.
 
 ### About me:
-My name is Luiz Henrique, I'm passionate about technology, I am a full-stack developer with solid knowledge in back-end with .NET and PHP, and front-end with Laravel, HTML, and a bit of JavaScript.
+I'm Luiz Henrique, I'm passionate about technology, I am a full-stack developer with solid knowledge in back-end with .NET and PHP, and front-end with Laravel, HTML, and a bit of JavaScript.
 
 ##### 🌱 Learn more about
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
